@@ -9,13 +9,12 @@ text-align: center;
 color: rgb(52, 26, 156);
 
 }
-.texto
+.texto {
 text-align: center;
 color: rgb(13, 14, 14);
 font-size: 20px;
-
-
 }
+
 img {
     width: 50%;
 }
